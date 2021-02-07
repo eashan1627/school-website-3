@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+#video {
+    height: 500px;
+    width: 1365px;
+}
+
+#details {
+    text-align: left;
+    margin-top: -600px;    
+}
+
+#map {
+    text-align: right;
+}
+
+.img-responsive {
+    text-align: top;
+    /*margin-top: -20px;*/
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    /* Eashan you forgot to add this width and display for the Div */
+    width: 110%;
+    display:inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+.movie_text {
+    color: #000000;
+}
+    .textCnt{
+        text-align: center;
+    }
+
+h4 {
+    text-align: left;
+}
